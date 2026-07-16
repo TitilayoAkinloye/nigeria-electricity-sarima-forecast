@@ -52,6 +52,11 @@ electricity distribution trends five years into the future.
 - Data cleaning and preparation
 - R programming
 - Technical writing and research documentation
+  
+## Repository Structure
+data/
+scripts/
+README.md
 
 ## Author
 **Akinloye Titilayo Faith**
